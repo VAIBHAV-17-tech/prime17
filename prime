@@ -1,0 +1,5 @@
+int a = 3,
+ b = 5,
+ c = 9; 
+int sum = a + b + c;
+ System. out. print(sum);
